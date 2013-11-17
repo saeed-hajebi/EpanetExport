@@ -1,0 +1,10 @@
+EpanetExport-- A tool to transform an EPANET 2.0 input file into a collection of files which then can be imporet into NetLogo.
+Author: Saeed Hajebi 
+How to cite: Hajebi, S., Barrett, S., Clarke, A. and Clarke, S. (2013) 'Multi-agent simulation to support water distribution network partitioning', in 27th European Simulation and Modelling Conference - ESM’2013, Lancaster University, UK.
+How to use:
+Download the files, copy the EPANET input file (file_name.inp) into the same directory, and run the folloing command:
+> Epanet2NetLogo file_name
+
+A collection of files will be created. Copy them in the same directory as the NetLogo model is. 
+
+
