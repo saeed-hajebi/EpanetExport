@@ -5,6 +5,6 @@ How to use:
 Download the files, copy the EPANET input file (file_name.inp) into the same directory, and run the folloing command:
 > Epanet2NetLogo file_name
 
-A collection of files will be created. Copy them in the same directory as the NetLogo model is. 
+A collection of files will be created. Copy them in the same directory as the NetLogo model is (see https://github.com/saeed-hajebi/MultiAgentWaterMngt as an example). 
 
 
